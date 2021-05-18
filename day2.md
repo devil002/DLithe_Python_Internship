@@ -3,11 +3,12 @@
 ### IDE for Python
 - Pycharm
 - Jupyter IDE
-### how to download and install pycharm
- Install community version
+### How to download and install pycharm
+ Install community version.
 ### Text editor
-
-## operators 
+- Vim
+- Notepad++
+## Operators 
 - Arithmetic 
 	+ `+ Addition`
 	+ `- Substract`
@@ -19,7 +20,7 @@
 	+ `% modulus`
 	+ `** power`
 - Relational
-	It gives true od flase in return.
+	* It gives true od flase in return.
 	* `>	greater than`
 	* `>=	greater than equal to`
 	* `<	lesser than`
@@ -49,7 +50,7 @@
 	+ `simple =`
 	+ `shorthand or compound +=,-=,*=,/=,%=,**=,&=,!=,^=,<<=,>>=`
 - Membership
-	Gives true or flase in return.
+	* Gives true or flase in return.
 	* in
 	* not in
 - Identity
