@@ -1,6 +1,6 @@
 # Day2 Report
 
-###IDE for Python
+### IDE for Python
 - Pycharm
 - Jupyter IDE
 ### how to download and install pycharm
