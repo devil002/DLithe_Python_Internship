@@ -9,32 +9,38 @@ install community version
 
 ## operators 
 - Arithmetic 
-	+ Addition
-	- Substract
-	* Multiply
-	/ Divide
+	`+ Addition`
+	`- Substract`
+	`* Multiply`
+	`/ Divide`
 		It always gives float in return.
-	// floor division
+	`// floor division`
 		It gives the smallest integer than the give integer.
-	% modulus
+	`% modulus`
 	** power
 - Relational
-	It gives true od flase in return.
-	1. >	greater than	
-	2. >=	greater than equal to
-	3. <	lesser than
-	4. <=	lesser than equal to
-	5. ==	equal to
-	6. != 	not equal
+	It gives true od flase in return.`
+	`>	greater than`
+	`>=	greater than equal to`
+	`<	lesser than`
+	`<=	lesser than equal to`
+	`==	equal to`
+	`!= 	not equal`
 - Logical 
 	and
 	or
 	not
 - Bitwise 
-	& bitwise and
-	| - bitwise OP
-	^ - bitwise EX- OR
-	~ - bitwise NOT or 1's complement
-	>> - Right shift
-	<< - Left shift
+	`& bitwise and`
+	`| - bitwise OP`
+	`^ - bitwise EX- OR`
+	`~ - bitwise NOT or 1's complement`
+		`a=10`
+		`print(~a)`
+		`shortcut -(x-1)`
+	`>> - Right shift`
+		`a=10`
+		`b=a>>2`
+		`floor(x/2**n)`
+	`<< - Left shift`
 	
