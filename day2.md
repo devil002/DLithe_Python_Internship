@@ -1,47 +1,65 @@
 # Day2 Report
 
-##IDE for Python
+###IDE for Python
 - Pycharm
 - Jupyter IDE
 ### how to download and install pycharm
-install community version
-##Text editor
+ Install community version
+### Text editor
 
 ## operators 
 - Arithmetic 
-	`+ Addition`
-	`- Substract`
-	`* Multiply`
-	`/ Divide`
+	+`+ Addition`
+	+`- Substract`
+	+`* Multiply`
+	+`/ Divide`
 		It always gives float in return.
-	`// floor division`
+	+`// floor division`
 		It gives the smallest integer than the give integer.
-	`% modulus`
-	** power
+	+`% modulus`
+	+`** power`
 - Relational
 	It gives true od flase in return.
-	`>	greater than`
-	`>=	greater than equal to`
-	`<	lesser than`
-	`<=	lesser than equal to`
-	`==	equal to`
-	`!= 	not equal`
+	*`>	greater than`
+	*`>=	greater than equal to`
+	*`<	lesser than`
+	*`<=	lesser than equal to`
+	*`==	equal to`
+	*`!= 	not equal`
 - Logical 
-	and
-	or
-	not
+	* and
+	* or
+	* not
 - Bitwise 
-	`& bitwise and`
-	`| - bitwise OP`
-	`^ - bitwise EX- OR`
-	`~ - bitwise NOT or 1's complement`
-		`a=10`
-		`print(~a)`
-		`shortcut -(x-1)`
-	`>> - Right shift`
-		`a=10`
-		`b=a>>2`
-		`shortcut floor(x/2**n)`
-	`<< - Left shift`
-		`x*2**n`
-	
+	*`& bitwise and`
+	*`| - bitwise OP`
+	*`^ - bitwise EX- OR`
+	*`~ - bitwise NOT or 1's complement`
+		+`a=10`
+		+`print(~a)`
+		+`shortcut -(x-1)`
+	*`>> - Right shift`
+		+`a=10`
+		+`b=a>>2`
+		+`shortcut floor(x/2**n)`
+	*`<< - Left shift`
+		+`x*2**n`
+		
+Assignment
+	+ `simple =`
+	+ `shorthand or compound +=,-=,*=,/=,%=,**=,&=,!=,^=,<<=,>>=`
+- Membership
+	Gives true or flase in return.
+	* in
+	* not in
+identity
+	is
+	is not
+Data type
+	+ number
+		- int(signed)
+	+ string
+	+ list
+	+ boolean
+	+ tuple
+	+ dictionary
