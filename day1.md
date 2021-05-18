@@ -5,9 +5,9 @@
 - How to install python
 - How to print Hello world on python
 - Data type
-	int
-	float
-	string
+	+ int
+	+ float
+	+ string
 - operators 
 - Variables
 
