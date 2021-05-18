@@ -31,7 +31,7 @@
 	* or
 	* not
 - Bitwise 
-	* `& bitwise and`
+	* `& - bitwise and`
 	* `| - bitwise OP`
 	* `^ - bitwise EX- OR`
 	* `~ - bitwise NOT or 1's complement`
@@ -53,8 +53,8 @@
 	* in
 	* not in
 - Identity
-	is
-	is not
+	* is
+	* is not
 - Data type
 	+ number
 		- int(signed)
