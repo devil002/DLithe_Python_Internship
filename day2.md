@@ -19,7 +19,7 @@ install community version
 	`% modulus`
 	** power
 - Relational
-	It gives true od flase in return.`
+	It gives true od flase in return.
 	`>	greater than`
 	`>=	greater than equal to`
 	`<	lesser than`
@@ -41,6 +41,7 @@ install community version
 	`>> - Right shift`
 		`a=10`
 		`b=a>>2`
-		`floor(x/2**n)`
+		`shortcut floor(x/2**n)`
 	`<< - Left shift`
+		`x*2**n`
 	
