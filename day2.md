@@ -58,6 +58,8 @@ identity
 Data type
 	+ number
 		- int(signed)
+		- can be given to varible in decimal,octal(0o10),hexa(0x10),binary(0b1010).
+		- float 
 	+ string
 	+ list
 	+ boolean
