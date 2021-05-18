@@ -20,7 +20,7 @@
 	+ `% modulus`
 	+ `** power`
 - Relational
-	* It gives true od flase in return.
+	* It gives true or flase in return.
 	* `>	greater than`
 	* `>=	greater than equal to`
 	* `<	lesser than`
