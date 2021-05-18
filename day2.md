@@ -20,12 +20,12 @@ install community version
 	** power
 - Relational
 	It gives true od flase in return.
-	>	greater than	
-	>=	greater than equal to
-	<	lesser than
-	<=	lesser than equal to
-	==	equal to
-	!= 	not equal
+	1. >	greater than	
+	2. >=	greater than equal to
+	3. <	lesser than
+	4. <=	lesser than equal to
+	5. ==	equal to
+	6. != 	not equal
 - Logical 
 	and
 	or
