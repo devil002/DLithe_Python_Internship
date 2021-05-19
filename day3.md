@@ -66,7 +66,7 @@ years = float(input("Number of years :"))
 interest = principal*(1+rate/100)**years
 
 # Printing the result 
-print("Compound Interest :",round(interest,2)) #gives tow digits after decimal
+print("Compound Interest :",round(interest,2)) #gives two digits after decimal
 ```
 
 ```python
@@ -77,11 +77,11 @@ principal = int(input("princial amount :"))
 rate = float(input("Interest rate :"))
 years = float(input("Number of years :"))
 
-# Calculating compund interest
+# Calculating Simple interest
 interest = (principal*year*rate)/100
 
 # Printing the result 
-print("Compound Interest :",round(interest,2)) #gives tow digits after decimal
+print("Compound Interest :",round(interest,2)) #gives two digits after decimal
 ```
 
 ```python
