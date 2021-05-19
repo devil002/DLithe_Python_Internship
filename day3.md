@@ -78,7 +78,7 @@ rate = float(input("Interest rate :"))
 years = float(input("Number of years :"))
 
 # Calculating Simple interest
-interest = (principal*year*rate)/100
+interest = (principal*years*rate)/100
 
 # Printing the result 
 print("Compound Interest :",round(interest,2)) #gives two digits after decimal
