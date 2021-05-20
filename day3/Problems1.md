@@ -1,12 +1,12 @@
-#### Problem 1. 
+#### Problem 1:
 
 Write a program to calculate simple interest. Formula to calculate simple interest : PNR/100.
 
-#### Problem 2. 
+#### Problem 2: 
 
 Write a program to find sum and average of 3 values.
 
-#### Problem 3. 
+#### Problem 3: 
 
 Write a program to perform the following task. The provided code stub reads two integers from STDIN,  and . Add code to print three lines where:
 
