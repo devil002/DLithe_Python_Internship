@@ -159,13 +159,13 @@ Output Format
 
 PATTERN AS SHOWN IN SAMPLE TEST CASE
 
+```
 Sample Input 0
-
 5
 Sample Output 0
-
 1
  2
   3
    4
     5
+```
