@@ -19,8 +19,8 @@ Output
 
 Print the maximum number of idlis she can buy for each test case on a new line
 
+```
 Sample Input 0
-
 5
 5 5 21
 4 5 21
@@ -28,12 +28,12 @@ Sample Input 0
 3 2 21
 1 2 20
 Sample Output 0
-
 4
 5
 6
 10
 20
+```
 
 #### Problem 2:
 You are given a positive integer . Print a numerical triangle of height  like the one below:
@@ -52,17 +52,16 @@ Note: Using anything related to strings will give a score of .
 
 Input Format
 A single line containing integer
-Sample Input
 
+```
+Sample Input
 5
 Sample Output
-
 1
 22
 333
 4444
-
-
+```
 
 #### Problem 3:
 You are given a rectangular board of M×N squares. Also you are given an unlimited number of standard domino pieces of 2×1 squares. You are allowed to rotate the pieces. You are asked to place as many dominoes as possible on the board so as to meet the following conditions:
@@ -98,7 +97,7 @@ Sample Output 0
 
 Given an integer,n, perform the following conditional actions:
 
-If n is odd, print Weird If n is even and in the inclusive range of 2 to 5, print Not Weird If n is even and in the inclusive range of 6 to 20, print Weird If n is even and greater than 20, print Not Weird
+If n is odd, print Weird. If n is even and in the inclusive range of 2 to 5, print Not Weird. If n is even and in the inclusive range of 6 to 20, print Weird. If n is even and greater than 20, print Not Weird.
 
 Input Format
 
@@ -112,12 +111,12 @@ Output Format
 
 Print Weird if the number is weird; otherwise, print Not Weird
 
-Sample Input 0
-
+```
+Sample Input 
 3
-Sample Output 0
-
+Sample Output 
 Weird
+```
 
 #### Problem 5:
 PRINT THE BELOW MENTIONED PATTERN FOR ANY "N" VALUE. WHERE "N" INDICATES NO.OF ROWS.
