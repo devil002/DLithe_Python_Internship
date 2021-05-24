@@ -1,1 +1,3 @@
-for i in range(int(input())): print(" "*int(i)+str(i+1))
+num = int(input())
+if num >= 1 and num <= 100: 
+    for i in range(num): print(" "*int(i)+str(i+1))
