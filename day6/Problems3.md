@@ -20,14 +20,14 @@ Output
 Print the maximum number of idlis she can buy for each test case on a new line
 
 ```
-Sample Input 0
+Sample Input 
 5
 5 5 21
 4 5 21
 4 3 20
 3 2 21
 1 2 20
-Sample Output 0
+Sample Output 
 4
 5
 6
@@ -80,18 +80,18 @@ In a single line you are given two integers M and N — board sizes in squares
 
 Constraints
 
-1=M=N=16
+1<=M<=N<=16
 
 Output Format
 
 Output one number — the maximal number of dominoes, which can be placed.
 
-Sample Input 0
-
+```
+Sample Input 
 2 4
-Sample Output 0
-
+Sample Output 
 4
+```
 
 #### Problem 4:
 
@@ -135,14 +135,14 @@ Output Format
 
 PATTERN AS SHOWN IN SAMPLE TEST CASE
 
-Sample Input 0
-
+```
+Sample Input 
 5
-Sample Output 0
-
+Sample Output 
 1   5
  2 4
   3
+```
 
 #### Problem 6:
 PRINT THE BELOW MENTIONED PATTERN FOR ANY "N" VALUE. WHERE "N" INDICATES NO.OF ROWS.
@@ -160,12 +160,13 @@ Output Format
 PATTERN AS SHOWN IN SAMPLE TEST CASE
 
 ```
-Sample Input 0
+Sample Input 
 5
-Sample Output 0
+Sample Output 
 1
  2
   3
    4
     5
 ```
+

@@ -1,4 +1,7 @@
-#
+# PRINT THE BELOW MENTIONED PATTERN FOR ANY "N" VALUE. WHERE "N" INDICATES NO.OF ROWS.
+#   Input Format : A SINGLE INTEGER DENOTING N VALUE
+#   Constraints : 1<=N<=100 ; N is only odd
+#   Output Format : PATTERN AS SHOWN IN SAMPLE TEST CASE
 
 num = int(input())
 if num % 2 != 0 and num >= 1 and num <= 100:
