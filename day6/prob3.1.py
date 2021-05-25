@@ -7,16 +7,37 @@
 #           Each test case contains three integers, A, B and K.
 #           1 = A,B,K = 10^9
 #   Output : Print the maximum number of idlis she can buy for each test case on a new line
-
-t_case = int(input())
+# check user input
+def check_temp(foo):
+    if len(foo) == 3:
+        if foo[0] >= 1 and foo[1] >= 1 and foo[2] >= 1:
+            if foo[0] <= 10**9 and foo[1] <= 10**9 and foo[2] <= 10**9:
+                return True
+            else:
+                return False
+        else:
+            return False
+    else:
+        return False
+#   User Input
+while True:
+    t_case = int(input())
+    if t_case >= 1 and t_case <= 1000:
+        break
 count = 0
 num = []
+temp = []
 print("Input : ")
 while count < t_case:
-    num.append([int(i) for i in input().split(" ") if i != ""])
+    temp = [int(i) for i in input().split(" ") if i != ""]
+    print(temp)
+    if check_temp(temp) == True:
+        num.append(temp)
     count += 1
-
+# Output
+# print(num)
 print("Output : ")
 for n in num:
     foo = int(n[2]/min(n[0],n[1]))
     print(str(foo))
+
