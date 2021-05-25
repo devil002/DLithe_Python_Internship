@@ -10,4 +10,4 @@
 # Note: Using anything related to strings will give a score of .
 #   Input Format : A single line containing integer
 
-for i in range(int(input())): print(str(i+1)*int(i+1))
+for i in range(1,int(input())): print(str(i)*int(i))
