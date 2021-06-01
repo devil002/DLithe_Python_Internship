@@ -1,12 +1,12 @@
 foo = [i for i in input().split(" ") if i != ""]
-tmp = {}
-for i in foo:
-    if i not in tmp:
-        tmp[i] = 0
-    if i in tmp:
-        tmp[i] += 1
-for i in tmp:
-    if tmp[i] > 1:
-        foo.remove(i)
-print(*foo)
-#print(tmp)
+wd = input()
+num = int(input())
+count = 1
+for i in range(len(foo)):
+    if foo[i] == wd:
+        print(foo[i],wd)
+        if num == count:
+            foo.pop(i)
+            break
+        count += 1
+print(foo)
