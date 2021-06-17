@@ -1,9 +1,3 @@
 # Day14 Report
 
-
-
-### Example problems
-
-```python
-```
-
+Instructor explained assignment problems.
