@@ -20,8 +20,10 @@ def isPrime(num):
             val = True
     return val
 
-#print(isPrime(int(input())))
-zee = int(input())
+# print(isPrime(int(input())))
+while(True):
+    zee = int(input())
+    if isPrime(zee):
         break
 # zee = int(input())
 bar = [int(i) for i in range(2, zee) if isPrime(i)]
