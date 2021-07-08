@@ -22,6 +22,8 @@ def isPrime(num):
 
 #print(isPrime(int(input())))
 zee = int(input())
+        break
+# zee = int(input())
 bar = [int(i) for i in range(2, zee) if isPrime(i)]
 x = 0
 tmp = []
